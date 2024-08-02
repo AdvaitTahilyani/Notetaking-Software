@@ -156,3 +156,4 @@ cython_debug/
 
 uploads/Madhusudan_Road.wav
 Transcripts/*
+.DS_Store
